@@ -5,8 +5,6 @@ sung kim 의 텐서플로우 강의를 따라가기로 했다.<br>
 <br>
 0612<br>
 lec 00, ML lec 01, ML lab 01, ML lec 02, ML lab 02, ML lec 03 <br>
-ML_lab_01.ipynb, ML_lab_02.ipynb <br>
 <br>
 0614<br>
-ML lab 03, ML lec 04, ML lab 04-1, ML lab 04-2 <br>
-ML_lab_03.ipynb, ML_lab_03_1.ipynb <br>
+ML lab 03, ML lec 04, ML lab 04 <br>
