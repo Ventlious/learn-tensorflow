@@ -10,4 +10,5 @@ lec 00, ML lec 01, ML lab 01, ML lec 02, ML lab 02, ML lec 03 <br>
 ML lab 03, ML lec 04, ML lab 04 <br>
 <br>
 0616<br>
-linear_regression_practice.ipynb, ML lec 05 <br>
+linear_regression_practice.ipynb, ML lec 05, ML lab 05 <br>
+0618<br>
