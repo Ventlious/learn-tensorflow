@@ -17,3 +17,6 @@ ML lec 06, ML lab 06, ML lec 07 <br>
 <br>
 0620<br>
 ML lab 07 <br>
+<br>
+0621<br>
+ML lec 08 <br>
