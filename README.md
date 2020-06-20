@@ -1,7 +1,5 @@
 # learn-tensorflow<br>
-<br>
-sung kim 의 텐서플로우 강의를 따라가기로 했다.<br>
-하루에 하나 이상씩 하기로 했다.<br>
+모두를 위한 딥러닝 강좌 시즌 1 by Sung Kim
 <br>
 0612<br>
 lec 00, ML lec 01, ML lab 01, ML lec 02, ML lab 02, ML lec 03 <br>
