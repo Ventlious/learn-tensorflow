@@ -6,7 +6,7 @@ lec 00, ML lec 01, ML lab 01, ML lec 02, ML lab 02, ML lec 03 <br>
 <br>
 0614<br>
 ML lab 03, ML lec 04, ML lab 04 <br>
-- ML lab 03-1.ipynb <br>
+- linear_regression_without_keras.ipynb <br>
 <br>
 0616<br>
 ML lec 05, ML lab 05 <br>
